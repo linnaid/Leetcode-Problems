@@ -47,4 +47,5 @@ func main() {
 
 	ADDR := LOC + offset*SIZE
 	fmt.Printf("目标元素地址 ADDR = %d\n", ADDR)
+	
 }
